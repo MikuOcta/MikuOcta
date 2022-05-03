@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @MikuOcta
-- 👀 I’m interested in tech, J-Pop and cats
-- 🌱 I’m currently learning Vala
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me MikuOcta22#3705
+Hello! I am Octavian (or Miku for short) :D
 
+I am a ENTP Drama queen and a tech enthusiast that likes everything Linux and open-source.
+
+Previous core founder of Crystal Linux.
+
+Being a big RedHat fan, my favourite distros are RHEL and Fedora (currently running RHEL 9 Beta)
+
+Now I am learning Vala, Ansible automation and system managment.
+
+I also like playing with podman containers and kuberneties.
+
+If you want to contact me, add me on Discord! MikuOcta22#3705
+
+I wish you have an awesome day! XOXO
 <!---
 MikuOcta/MikuOcta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
