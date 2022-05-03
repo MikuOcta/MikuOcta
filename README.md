@@ -8,7 +8,7 @@ Being a big RedHat fan, my favourite distros are RHEL and Fedora (currently runn
 
 Now I am learning Vala, Ansible automation and system managment.
 
-I also like playing with podman containers and kuberneties.
+I also like playing with podman containers and kubernetes.
 
 If you want to contact me, add me on Discord! MikuOcta22#3705
 
