@@ -4,7 +4,7 @@ I am a ENTP Drama queen and a tech enthusiast that likes everything Linux and op
 
 Previous core founder of Crystal Linux.
 
-Being a big RedHat fan, my favourite distros are RHEL and Fedora (currently running RHEL 9 Beta)
+Being a big RedHat fan, my favourite distros are RHEL and Fedora  but I also like elementaryOS (running now OS6)
 
 Now I am learning Vala, Ansible automation and system managment.
 
